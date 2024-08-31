@@ -1,7 +1,7 @@
 Hi 👋 My name is Marimuthu Kannayiram
 =====================================
 
-Software Engineer
+Flutter Developer
 -----------------
 
 * 🌍  I'm based in India.
